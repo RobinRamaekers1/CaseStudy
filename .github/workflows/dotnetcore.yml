@@ -31,9 +31,9 @@ jobs:
     - name: Publish
       run: dotnet publish
       
-    - name: Upload Webscraper Build Artifact
+    - name: Upload indeed Build Artifact
       uses: actions/upload-artifact@v2
       with:
-       name: Webscraper
+       name: indeed
        path: /home/runner/work/CaseStudy/CaseStudy/bin/Debug/netcoreapp3.1/publish/
     
