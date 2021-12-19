@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7yACk/1bLtgEe33LjZaQrYiEbwjt9QbOZRSH29wfd9dw6ObuAru7BDWpxHObO4erbU1cJ37JW8Zwiih2FW9kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robin\\source\\repos\\indeed\\indeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
