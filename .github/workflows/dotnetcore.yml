@@ -35,5 +35,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
        name: Webscraper
-       path: /CaseStudy/bin/Release/netcoreapp3.1/publish/
+       path: /home/runner/work/CaseStudy/CaseStudy/bin/Debug/netcoreapp3.1/publish/
     
