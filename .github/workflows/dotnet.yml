@@ -30,3 +30,9 @@ jobs:
 
     - name: Publish
       run: dotnet publish
+      
+    - name: Upload indeed Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: indeed
+        path: /home/runner/work/CaseStudy/CaseStudy/bin/Debug/netcoreapp3.1/publish/
